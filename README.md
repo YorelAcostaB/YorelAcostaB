@@ -29,12 +29,7 @@
 <br />
 
 ---
-<img align="left" alt="Yorel Acosta's GitHub Stats" src="github-readme-stats.yorelacostab.vercel.app/api?username=yorelacostab&show_icons=true&hide_border=true" />
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Yorel Acosta's GitHub Stats" src="https://github-readme-stats.yorelacostab.vercel.app/api?username=yorelacostab&show_icons=true&hide_border=true" />
-</details>
+<img align="left" alt="Yorel Acosta's GitHub Stats" src="https://github-readme-stats.yorelacostab.vercel.app/api?username=yorelacostab&show_icons=true&hide_border=true" />
 
 [dribbble]: https://dribbble.com/Yorel_Acosta
 [instagram]: https://www.instagram.com/yorel_acosta/
