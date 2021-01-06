@@ -1,6 +1,6 @@
 ### Hi there, I'm Yorel! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yorelacostab?label=FOLLOW%20%40YORELACOSTAB&logo=Github&style=for-the-badge)](https://github.com/login?return_to=%2FYorelAcostaB)
+![GitHub followers](https://img.shields.io/github/followers/yorelacostab?label=FOLLOW%20%40YORELACOSTAB&logo=Github&style=for-the-badge)
 [![Discord](https://img.shields.io/discord/796222813399941190?label=DISCORD%20CHAT%20%40OVERDATA&logo=Discord&style=for-the-badge)][discord]
 ## I'm a Junior dev!
 
@@ -29,12 +29,8 @@
 <br />
 
 ---
+<img align="left" alt="Yorel Acosta's GitHub Stats" src="github-readme-stats.yorelacostab.vercel.app/api?username=yorelacostab&show_icons=true&hide_border=true" />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-</details>
 
 [dribbble]: https://dribbble.com/Yorel_Acosta
 [instagram]: https://www.instagram.com/yorel_acosta/
