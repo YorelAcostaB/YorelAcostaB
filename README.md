@@ -23,20 +23,20 @@
 
 ### Languages and Tools:
 
-[<img align="left" width="22px" src="https://simpleicons.org/icons/java.svg" />]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/javascript.svg" />]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/node-dot-js.svg" />]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/express.svg" />]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/firebase.svg" />]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/gnubash.svg" />]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/flutter.svg" />]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/graphql.svg" />]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/figma.svg" />]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/adobexd.svg" />]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/adobepremierepro.svg" />]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/visualstudio.svg" />]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg" />]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/raspberrypi.svg" />]
+<img align="left" width="22px" src="https://simpleicons.org/icons/java.svg" />
+<img align="left" width="22px" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="left" width="22px" src="https://simpleicons.org/icons/node-dot-js.svg" />
+<img align="left" width="22px" src="https://simpleicons.org/icons/express.svg" />
+<img align="left" width="22px" src="https://simpleicons.org/icons/firebase.svg" />
+<img align="left" width="22px" src="https://simpleicons.org/icons/gnubash.svg" />
+<img align="left" width="22px" src="https://simpleicons.org/icons/flutter.svg" />
+<img align="left" width="22px" src="https://simpleicons.org/icons/graphql.svg" />
+<img align="left" width="22px" src="https://simpleicons.org/icons/figma.svg" />
+<img align="left" width="22px" src="https://simpleicons.org/icons/adobexd.svg" />
+<img align="left" width="22px" src="https://simpleicons.org/icons/adobepremierepro.svg" />
+<img align="left" width="22px" src="https://simpleicons.org/icons/visualstudio.svg" />
+<img align="left" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" width="22px" src="https://simpleicons.org/icons/raspberrypi.svg" />
 
 <br />
 <br />
