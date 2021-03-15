@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/yorelacostab?label=FOLLOW%20%40YORELACOSTAB&logo=Github&style=for-the-badge)
 [![Discord](https://img.shields.io/discord/796222813399941190?label=DISCORD%20CHAT%20%40OVERDATA&logo=Discord&style=for-the-badge)][discord]
-## I'm a Semi-Senior dev!
+## I'm a Junior dev!
 
 - 🔭 This year I aspire to graduate as a Professional Technician in Information Technology!!
 - 🌱 I’m currently learning Dart and Flutter
