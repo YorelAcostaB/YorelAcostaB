@@ -39,3 +39,4 @@
 [github]:    https://github.com/YorelAcostaB
 [devto]:     https://dev.to/yorelacostab
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
